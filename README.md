@@ -2,7 +2,7 @@
 Project Overview
 This project focuses on analyzing customer demographics and spending patterns from a retail dataset of 200+ profiles. Using Python, I identified high-value segments and behavioral clusters to help businesses optimize their marketing strategies.  
 
-**🛠️ Tech Stack**
+**Tech Stack**
 Language: **Python ** 
 Libraries: **Pandas (Data Manipulation), Matplotlib (Visualization) ** 
 
